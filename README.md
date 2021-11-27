@@ -16,3 +16,4 @@
   * one folder "content" with translated pages. 
 * You can add new languages, new pages or edit them.
 * Each page should refer to the other languages (their pages with same content)
+* You can use [header](https://github.com/syncloud/docs/blob/master/templates/header.md), [footer](https://github.com/syncloud/docs/blob/master/templates/footer.md), and [navigation](https://github.com/syncloud/docs/blob/master/templates/navigation.md) templates
