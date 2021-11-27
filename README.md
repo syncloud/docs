@@ -2,7 +2,7 @@
 
 *Translation is under development. Please, rely on the original version in english.*
 
-* en
+* [en](https://github.com/syncloud/platform/wiki)
 * [de](https://github.com/syncloud/docs/blob/main/de/index.md)
 * [cn](https://github.com/syncloud/docs/blob/main/cn/index.md)
 * [ru](https://github.com/syncloud/docs/blob/main/ru/index.md)
