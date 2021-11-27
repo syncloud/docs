@@ -9,7 +9,7 @@ cn |
 
 content
 
-# Pages
+## Pages
 
 * [Accounts](https://github.com/syncloud/docs/blob/master/cn/content/Accounts.md)
 * [App-access](https://github.com/syncloud/docs/blob/master/cn/content/App-access.md)
