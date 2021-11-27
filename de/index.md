@@ -40,7 +40,7 @@ content
 * [Plex](https://github.com/syncloud/docs/blob/master/de/content/Plex.md)
 * [Remote-file-access](https://github.com/syncloud/docs/blob/master/de/content/Remote-file-access.md)
 * [Probleme berichten](https://github.com/syncloud/docs/blob/master/de/content/Report-problems.md)
-* [Slow](https://github.com/syncloud/docs/blob/master/de/content/Slow.md)
+* [Zu langsam](https://github.com/syncloud/docs/blob/master/de/content/Slow.md)
 * [SSH](https://github.com/syncloud/docs/blob/master/de/content/SSH.md)
 * [Syncloud-Mobile-App](https://github.com/syncloud/docs/blob/master/de/content/Syncloud-Mobile-App.md)
 * [Things-to-know-before-buying-a-device](https://github.com/syncloud/docs/blob/master/de/content/Things-to-know-before-buying-a-device.md)
