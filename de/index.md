@@ -11,7 +11,7 @@ content
 
 ## Seiten
 
-* [Accounts](https://github.com/syncloud/docs/blob/master/de/content/Accounts.md)
+* [Benutzerkonten](https://github.com/syncloud/docs/blob/master/de/content/Accounts.md)
 * [App Zugang](https://github.com/syncloud/docs/blob/master/de/content/App-access.md)
 * [App Kanäle](https://github.com/syncloud/docs/blob/master/de/content/App-Channels.md)
 * [App-porting-guide](https://github.com/syncloud/docs/blob/master/de/content/App-porting-guide.md)
