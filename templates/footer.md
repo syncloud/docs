@@ -9,7 +9,8 @@ This can be used in the original github wiki (english).
 To create header of an index page use this code:
 
 ```
-[en](https://github.com/syncloud/platform/wiki) | 
+---
+en | 
 [de](https://github.com/syncloud/docs/blob/master/de/index.md) | 
 [cn](https://github.com/syncloud/docs/blob/master/cn/index.md) | 
 [ru](https://github.com/syncloud/docs/blob/master/ru/index.md) | 
@@ -17,14 +18,13 @@ To create header of an index page use this code:
 [es](https://github.com/syncloud/docs/blob/master/es/index.md) | 
 ```
 
-Remove URL/link styling from actual language.
-
 ## For content page
 
 To create header of a content page use this code:
 
 ```
-[en](https://github.com/syncloud/platform/wiki/**) | 
+---
+en | 
 [de](https://github.com/syncloud/docs/blob/master/de/content/**.md) | 
 [cn](https://github.com/syncloud/docs/blob/master/cn/content/**.md) | 
 [ru](https://github.com/syncloud/docs/blob/master/ru/content/**.md) | 
@@ -32,4 +32,4 @@ To create header of a content page use this code:
 [es](https://github.com/syncloud/docs/blob/master/es/content/**.md) | 
 ```
 
-Replace * with language abbreviation and ** with page name.
+Replace ** with page name.
