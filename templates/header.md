@@ -9,6 +9,8 @@ This can be used for the translation wiki (syncloud/docs).
 To create header of an index page use this code:
 
 ```
+[docs](https://github.com/syncloud/docs)
+
 [en](https://github.com/syncloud/platform/wiki) | 
 [de](https://github.com/syncloud/docs/blob/master/de/index.md) | 
 [cn](https://github.com/syncloud/docs/blob/master/cn/index.md) | 
