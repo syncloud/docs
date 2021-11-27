@@ -2,8 +2,9 @@
 
 ## For index page
 
-To create this:
+To create header of an index page use this code:
 
+```
 [en]() | 
 [de](https://github.com/syncloud/docs/blob/master/de/index.md) | 
 [cn](https://github.com/syncloud/docs/blob/master/cn/index.md) | 
@@ -14,8 +15,11 @@ To create this:
 # Home
 
 *insert content here*
+```
 
-Use this code:
+## For content page
+
+To create header of a content page use this code:
 
 ```
 [en]() | 
