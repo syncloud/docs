@@ -17,7 +17,7 @@ Weitere Informationen finden Sie auf den Wiki-Seiten ganz unten.
 
 Hier ist die Liste der unterstützten Boards und Links zu Image Dateien: 
 
-...
+[en](https://github.com/syncloud/platform/wiki)
 
 ### Image erstellen
 
