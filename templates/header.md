@@ -2,6 +2,8 @@
 
 # Header templates
 
+This can be used for the translation wiki (syncloud/docs).
+
 ## For index page
 
 To create header of an index page use this code:
