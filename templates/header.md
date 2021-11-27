@@ -22,6 +22,8 @@ To create header of an index page use this code:
 To create header of a content page use this code:
 
 ```
+[navigation](https://github.com/syncloud/docs/blob/master/*/index.md)
+
 [en]() | 
 [de](https://github.com/syncloud/docs/blob/master/de/index.md) | 
 [cn](https://github.com/syncloud/docs/blob/master/cn/index.md) | 
@@ -29,7 +31,7 @@ To create header of a content page use this code:
 [fr](https://github.com/syncloud/docs/blob/master/fr/index.md) | 
 [es](https://github.com/syncloud/docs/blob/master/es/index.md) | 
 
-# Home
+# *insert page name here*
 
 *insert content here*
 ```
