@@ -16,7 +16,7 @@ To create header of an index page use this code:
 
 # Home
 
-*insert content here*
+insert content here
 ```
 
 Remove URL/link styling from actual language.
@@ -35,9 +35,9 @@ To create header of a content page use this code:
 [fr](https://github.com/syncloud/docs/blob/master/fr/content/**.md) | 
 [es](https://github.com/syncloud/docs/blob/master/es/content/**.md) | 
 
-# *insert page name here*
+# insert page name here
 
-*insert content here*
+insert content here
 ```
 
 Replace * with language abbreviation and ** with page name.
