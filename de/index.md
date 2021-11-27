@@ -21,13 +21,13 @@ Hier ist die Liste der unterstützten Boards und Links zu Image Dateien:
 
 ### Image erstellen
 
-1. Mit dem [Etcher Image Writer]() ein Image auf eine Festplatte und/oder SD-Karte schreiben
+1. Mit dem [Etcher Image Writer](https://www.balena.io/etcher/) ein Image auf eine Festplatte und/oder SD-Karte schreiben
 
 Seien Sie vorsichtig und trennen Sie andere externe Laufwerke, bevor Sie schreiben, damit Sie nicht versehentlich alles löschen.
 
 2. Legen Sie die Diskette und/oder SD-Karte in das Gerät ein und starten Sie es.
 
-Ihr Syncloud-Gerät ist bereit. Folgen Sie [dieser Anweisung](), um es zu aktivieren. 
+Ihr Syncloud-Gerät ist bereit. Folgen Sie [dieser Anweisung](https://syncloud.org/setup.html), um es zu aktivieren. 
 
 ## Seiten
 
