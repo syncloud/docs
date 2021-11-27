@@ -1,9 +1,11 @@
-[en]() | 
-[de](https://github.com/syncloud/docs/blob/main/de/index.md) | 
-[cn](https://github.com/syncloud/docs/blob/main/cn/index.md) | 
-[ru](https://github.com/syncloud/docs/blob/main/ru/index.md) | 
+[docs](https://github.com/syncloud/docs)
+
+[en](https://github.com/syncloud/platform/wiki) | 
+[de](https://github.com/syncloud/docs/blob/master/de/index.md) | 
+[cn](https://github.com/syncloud/docs/blob/master/cn/index.md) | 
+[ru](https://github.com/syncloud/docs/blob/master/ru/index.md) | 
 fr | 
-[es](https://github.com/syncloud/docs/blob/main/es/index.md) | 
+[es](https://github.com/syncloud/docs/blob/master/es/index.md) | 
 
 # Home
 
