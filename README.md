@@ -3,11 +3,11 @@
 *Translation is under development. Please, rely on the original version in english.*
 
 * [en](https://github.com/syncloud/platform/wiki)
-* [de](https://github.com/syncloud/docs/blob/main/de/index.md)
-* [cn](https://github.com/syncloud/docs/blob/main/cn/index.md)
-* [ru](https://github.com/syncloud/docs/blob/main/ru/index.md)
-* [fr](https://github.com/syncloud/docs/blob/main/fr/index.md)
-* [es](https://github.com/syncloud/docs/blob/main/es/index.md)
+* [de](https://github.com/syncloud/docs/blob/master/de/index.md)
+* [cn](https://github.com/syncloud/docs/blob/master/cn/index.md)
+* [ru](https://github.com/syncloud/docs/blob/master/ru/index.md)
+* [fr](https://github.com/syncloud/docs/blob/master/fr/index.md)
+* [es](https://github.com/syncloud/docs/blob/master/es/index.md)
 
 ## Contribute
 
