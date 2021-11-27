@@ -9,7 +9,7 @@ de |
 
 content
 
-## Inhalt
+## Seiten
 
 * [Accounts](https://github.com/syncloud/docs/blob/master/de/content/Accounts.md)
 * [App-access](https://github.com/syncloud/docs/blob/master/de/content/App-access.md)
