@@ -7,6 +7,10 @@
 [fr](https://github.com/syncloud/docs/blob/master/fr/content/App-access.md) | 
 [es](https://github.com/syncloud/docs/blob/master/es/content/App-access.md) | 
 
-# *insert page name here*
+# App Zugang
 
-*insert content here*
+Jede App in Syncloud hat einen dedizierten Domainnamen, da nur so einem einzelnen Gerät mitgeteilt wird, welche App Sie verwenden möchten.
+
+Format: https://[app].[domain]
+
+Beispiel: https://nextcloud.syncloud.it 
