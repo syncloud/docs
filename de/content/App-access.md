@@ -1,7 +1,7 @@
-[navigation](https://github.com/syncloud/docs/blob/master/*/index.md)
+[Seiten](https://github.com/syncloud/docs/blob/master/de/index.md#seiten)
 
 [en](https://github.com/syncloud/platform/wiki/App-access) | 
-[de](https://github.com/syncloud/docs/blob/master/de/content/App-access.md) | 
+de | 
 [cn](https://github.com/syncloud/docs/blob/master/cn/content/App-access.md) | 
 [ru](https://github.com/syncloud/docs/blob/master/ru/content/App-access.md) | 
 [fr](https://github.com/syncloud/docs/blob/master/fr/content/App-access.md) | 
