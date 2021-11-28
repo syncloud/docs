@@ -11,7 +11,7 @@ de |
 [fr](https://github.com/syncloud/docs/blob/master/fr/content/Boot-from-SATA.md) | 
 [es](https://github.com/syncloud/docs/blob/master/es/content/Boot-from-SATA.md) | 
 
-# *insert page name here*
+# Booten von SATA
 
 **WARNUNG**: Sie müssen dies nicht tun, wenn Sie ein Gerät bei uns kaufen, es ist alles fertig und getestet.
 
