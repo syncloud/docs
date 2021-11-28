@@ -23,30 +23,30 @@ Hier ist die Liste der unterstützten Boards und Links zu Image Dateien:
 
 |Board Name|Syncloud Image|
 |---|---|
-|[Banana Pi M1]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|[Banana Pi M1+]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|[Banana Pi M2]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|[Banana Pi M3]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|[Cubieboard]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|[Cubieboard 2]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|[Cubietruck]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|[BeagleBone Black]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|[Raspberry Pi 2 (B)]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|[Raspberry Pi 3/4 (B/B+, 4G/8G)]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|[Odroid C2]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|[Odroid XU3]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|[Odroid HC1]()|[SD](), [SATA](), [info]()|
-|[Odroid HC2]()|[SD](), [SATA](), [info]()|
-|[Odroid HC4]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|[Odroid XU4]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|[Odroid N2]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|[Odroid U3]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|[Tinker]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|[Helios4]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|[Helios64]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|[Rock64]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|x64 [Virtual Box]()|[Download](https://github.com/syncloud/platform/releases/download/), [info]()|
-|x64 Linux [Docker]()|[info]()|
+|[Banana Pi M1](https://www.banana-pi.org/)|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[Banana Pi M1+](https://www.banana-pi.org/)|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[Banana Pi M2](https://www.banana-pi.org/)|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[Banana Pi M3](https://www.banana-pi.org/)|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[Cubieboard](cubieboard.org)|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[Cubieboard 2](cubieboard.org)|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[Cubietruck](cubieboard.org)|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[BeagleBone Black](http://beagleboard.org/Products/BeagleBone+Black)|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[Raspberry Pi 2 (B)](http://www.raspberrypi.org/)|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[Raspberry Pi 3/4 (B/B+, 4G/8G)](http://www.raspberrypi.org/)|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[Odroid C2](https://www.hardkernel.com/shop/odroid-c2)|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[Odroid XU3](https://www.hardkernel.com/shop/odroid-xu3)|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[Odroid HC1](https://www.hardkernel.com/shop/odroid-hc1-home-cloud-one)|[SD](), [SATA](), [info]()|
+|[Odroid HC2](https://www.hardkernel.com/shop/odroid-hc2-home-cloud-two)|[SD](), [SATA](), [info]()|
+|[Odroid HC4](https://www.hardkernel.com/shop/odroid-hc4)|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[Odroid XU4](https://www.hardkernel.com/shop/odroid-xu4-special-price)|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[Odroid N2](https://www.hardkernel.com/shop/odroid-n2-with-4gbyte-ram)|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[Odroid U3](https://www.hardkernel.com/shop/odroid-u3)|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[Tinker](https://www.asus.com/uk/Single-Board-Computer/Tinker-Board)|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[Helios4](http://kobol.io/helios4)|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[Helios64](http://kobol.io/helios64)|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[Rock64](https://www.pine64.org/)|[Download](https://github.com/syncloud/platform/releases/download/)|
+|x64 [Virtual Box](https://www.virtualbox.org/wiki/Downloads)|[Download](https://github.com/syncloud/platform/releases/download/), [info]()|
+|x64 Linux [Docker](https://www.docker.com/)|[info]()|
 |x64 Syncloud OS [Legacy BIOS]|[Download](https://github.com/syncloud/platform/releases/download/), [info]()|
 |x64 Syncloud OS [UEFI] recommended for NUC or any other Intel/AMD system|[Download](https://github.com/syncloud/platform/releases/download/), [info]()|
 
