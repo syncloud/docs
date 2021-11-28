@@ -35,8 +35,8 @@ Hier ist die Liste der unterstützten Boards und Links zu Image Dateien:
 |[Raspberry Pi 3/4 (B/B+, 4G/8G)]()|[Download](https://github.com/syncloud/platform/releases/download/)|
 |[Odroid C2]()|[Download](https://github.com/syncloud/platform/releases/download/)|
 |[Odroid XU3]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|[Odroid HC1]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|[Odroid HC2]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[Odroid HC1]()|[SD](), [SATA](), [info]()|
+|[Odroid HC2]()|[SD](), [SATA](), [info]()|
 |[Odroid HC4]()|[Download](https://github.com/syncloud/platform/releases/download/)|
 |[Odroid XU4]()|[Download](https://github.com/syncloud/platform/releases/download/)|
 |[Odroid N2]()|[Download](https://github.com/syncloud/platform/releases/download/)|
@@ -45,10 +45,10 @@ Hier ist die Liste der unterstützten Boards und Links zu Image Dateien:
 |[Helios4]()|[Download](https://github.com/syncloud/platform/releases/download/)|
 |[Helios64]()|[Download](https://github.com/syncloud/platform/releases/download/)|
 |[Rock64]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|x64 [Virtual Box]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|x64 Linux [Docker]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|x64 Syncloud OS [Legacy BIOS]|[Download](https://github.com/syncloud/platform/releases/download/)|
-|x64 Syncloud OS [UEFI] recommended for NUC or any other Intel/AMD system|[Download](https://github.com/syncloud/platform/releases/download/)|
+|x64 [Virtual Box]()|[Download](https://github.com/syncloud/platform/releases/download/), [info]()|
+|x64 Linux [Docker]()|[info]()|
+|x64 Syncloud OS [Legacy BIOS]|[Download](https://github.com/syncloud/platform/releases/download/), [info]()|
+|x64 Syncloud OS [UEFI] recommended for NUC or any other Intel/AMD system|[Download](https://github.com/syncloud/platform/releases/download/), [info]()|
 
 ### Image erstellen
 
