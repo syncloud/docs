@@ -11,6 +11,17 @@ de |
 [fr](https://github.com/syncloud/docs/blob/master/fr/content/Custom-certificate.md) | 
 [es](https://github.com/syncloud/docs/blob/master/es/content/Custom-certificate.md) | 
 
-# *insert page name here*
+# Custom Zertifikat
 
-*insert content here*
+Wenn Sie ein eigenes Zertifikat haben, können Sie es installieren, indem Sie diese Dateien ersetzen:
+
+```
+/var/snap/platform/common/syncloud.crt
+/var/snap/platform/common/syncloud.key
+```
+
+Webserver neu starten
+
+```
+systemctl restart snap.platform.nginx-public 
+```
