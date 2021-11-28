@@ -74,7 +74,7 @@ Ihr Syncloud-Gerät ist bereit. Folgen Sie [dieser Anweisung](https://syncloud.o
 * [Eigenes Zertifikat](https://github.com/syncloud/docs/blob/master/de/content/Custom-certificate.md)
 * [Eigene Domain](https://github.com/syncloud/docs/blob/master/de/content/Custom-domain.md)
 * [Geräteaktivierung](https://github.com/syncloud/docs/blob/master/de/content/Device-activation.md)
-* [Device Migration](https://github.com/syncloud/docs/blob/master/de/content/Device-migration.md)
+* [Gerätemigration](https://github.com/syncloud/docs/blob/master/de/content/Device-migration.md)
 * [Diaspora](https://github.com/syncloud/docs/blob/master/de/content/Diaspora.md)
 * [Docker](https://github.com/syncloud/docs/blob/master/de/content/Docker.md)
 * [eMMC](https://github.com/syncloud/docs/blob/master/de/content/eMMC.md)
