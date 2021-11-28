@@ -23,7 +23,32 @@ Hier ist die Liste der unterstützten Boards und Links zu Image Dateien:
 
 |Board Name|Syncloud Image|
 |---|---|
-|Banana Pi M1|Download|
+|[Banana Pi M1]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
 
 ### Image erstellen
 
