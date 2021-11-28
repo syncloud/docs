@@ -13,4 +13,4 @@ de |
 
 # Bitwarden
 
-Diese App verwaltet ihre Benutzer, daher müssen Sie die Schaltfläche Konto erstellen verwenden, bevor Sie sie verwenden können.
+Diese App verwaltet ihre Benutzer, daher müssen Sie die Schaltfläche "Konto erstellen" verwenden, bevor Sie sie verwenden können.
