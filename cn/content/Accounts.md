@@ -2,7 +2,7 @@
 ! 翻译正在开发中。 请依赖英文的原始版本。
 ```
 
-[navigation](https://github.com/syncloud/docs/blob/master/*/index.md)
+[navigation](https://github.com/syncloud/docs/blob/master/cn/index.md)
 
 [en](https://github.com/syncloud/platform/wiki/Accounts) | 
 [de](https://github.com/syncloud/docs/blob/master/de/content/Accounts.md) | 
