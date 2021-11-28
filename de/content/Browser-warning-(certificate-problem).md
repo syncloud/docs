@@ -1,7 +1,11 @@
-[navigation](https://github.com/syncloud/docs/blob/master/*/index.md)
+```diff
+! Die Übersetzung befindet sich in der Entwicklung. Bitte verlassen Sie sich auf die englische Originalversion.
+```
+
+[Seiten](https://github.com/syncloud/docs/blob/master/de/index.md#seiten)
 
 [en](https://github.com/syncloud/platform/wiki/Browser-warning-(certificate-problem)) | 
-[de](https://github.com/syncloud/docs/blob/master/de/content/Browser-warning-(certificate-problem).md) | 
+de | 
 [cn](https://github.com/syncloud/docs/blob/master/cn/content/Browser-warning-(certificate-problem).md) | 
 [ru](https://github.com/syncloud/docs/blob/master/ru/content/Browser-warning-(certificate-problem).md) | 
 [fr](https://github.com/syncloud/docs/blob/master/fr/content/Browser-warning-(certificate-problem).md) | 
