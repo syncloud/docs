@@ -36,8 +36,8 @@ Aquí está la lista de tableros compatibles y enlaces a archivos de imagen:
 |[Raspberry Pi 3/4 (B/B+, 4G/8G)](http://www.raspberrypi.org/)|[Download](https://github.com/syncloud/platform/releases/download/21.10/syncloud-raspberrypi-21.10.img.xz)|
 |[Odroid C2](https://www.hardkernel.com/shop/odroid-c2)|[Download](https://github.com/syncloud/platform/releases/download/21.10/syncloud-odroid-c2-21.10.img.xz)|
 |[Odroid XU3](https://www.hardkernel.com/shop/odroid-xu3)|[Download](https://github.com/syncloud/platform/releases/download/21.10/syncloud-odroid-xu3and4-21.10.img.xz)|
-|[Odroid HC1](https://www.hardkernel.com/shop/odroid-hc1-home-cloud-one)|[SD](https://github.com/syncloud/platform/releases/download/21.10/syncloud-odroid-xu3and4-sd-21.10.img.xz), [SATA](https://github.com/syncloud/platform/releases/download/21.10/syncloud-odroid-xu3and4-21.10.img.xz), [info](https://github.com/syncloud/docs/blob/master/de/content/Boot-from-SATA.md)|
-|[Odroid HC2](https://www.hardkernel.com/shop/odroid-hc2-home-cloud-two)|[SD](https://github.com/syncloud/platform/releases/download/21.10/syncloud-odroid-xu3and4-sd-21.10.img.xz), [SATA](https://github.com/syncloud/platform/releases/download/21.10/syncloud-odroid-xu3and4-21.10.img.xz), [info](https://github.com/syncloud/docs/blob/master/de/content/Boot-from-SATA.md)|
+|[Odroid HC1](https://www.hardkernel.com/shop/odroid-hc1-home-cloud-one)|[SD](https://github.com/syncloud/platform/releases/download/21.10/syncloud-odroid-xu3and4-sd-21.10.img.xz), [SATA](https://github.com/syncloud/platform/releases/download/21.10/syncloud-odroid-xu3and4-21.10.img.xz), [info](https://github.com/syncloud/docs/blob/master/es/content/Boot-from-SATA.md)|
+|[Odroid HC2](https://www.hardkernel.com/shop/odroid-hc2-home-cloud-two)|[SD](https://github.com/syncloud/platform/releases/download/21.10/syncloud-odroid-xu3and4-sd-21.10.img.xz), [SATA](https://github.com/syncloud/platform/releases/download/21.10/syncloud-odroid-xu3and4-21.10.img.xz), [info](https://github.com/syncloud/docs/blob/master/es/content/Boot-from-SATA.md)|
 |[Odroid HC4](https://www.hardkernel.com/shop/odroid-hc4)|[Download](https://github.com/syncloud/platform/releases/download/21.10/syncloud-odroid-hc4-21.10.img.xz)|
 |[Odroid XU4](https://www.hardkernel.com/shop/odroid-xu4-special-price)|[Download](https://github.com/syncloud/platform/releases/download/21.10/syncloud-odroid-xu3and4-21.10.img.xz)|
 |[Odroid N2](https://www.hardkernel.com/shop/odroid-n2-with-4gbyte-ram)|[Download](https://github.com/syncloud/platform/releases/download/21.10/syncloud-odroid-n2-21.10.img.xz)|
@@ -46,10 +46,10 @@ Aquí está la lista de tableros compatibles y enlaces a archivos de imagen:
 |[Helios4](http://kobol.io/helios4)|[Download](https://github.com/syncloud/platform/releases/download/21.10/syncloud-helios4-21.10.img.xz)|
 |[Helios64](http://kobol.io/helios64)|[Download](https://github.com/syncloud/platform/releases/download/21.10/syncloud-helios64-21.10.img.xz)|
 |[Rock64](https://www.pine64.org/)|[Download](https://github.com/syncloud/platform/releases/download/21.10/syncloud-rock64-21.10.img.xz)|
-|x64 [Virtual Box](https://www.virtualbox.org/wiki/Downloads)|[Download](https://github.com/syncloud/platform/releases/download/21.10/syncloud-amd64-21.10.vdi.xz), [info](https://github.com/syncloud/docs/blob/master/de/content/Virtual-Box.md)|
-|x64 Linux [Docker](https://www.docker.com/)|[info](https://github.com/syncloud/docs/blob/master/de/content/Docker.md)|
-|x64 Syncloud OS [Legacy BIOS]|[Download](https://github.com/syncloud/platform/releases/download/21.10/syncloud-amd64-21.10.img.xz), [info](https://github.com/syncloud/docs/blob/master/de/content/PC.md)|
-|x64 Syncloud OS [UEFI] recommended for NUC or any other Intel/AMD system|[Download](https://github.com/syncloud/platform/releases/download/21.10/syncloud-amd64-uefi-21.10.img.xz), [info](https://github.com/syncloud/docs/blob/master/de/content/PC.md)|
+|x64 [Virtual Box](https://www.virtualbox.org/wiki/Downloads)|[Download](https://github.com/syncloud/platform/releases/download/21.10/syncloud-amd64-21.10.vdi.xz), [info](https://github.com/syncloud/docs/blob/master/es/content/Virtual-Box.md)|
+|x64 Linux [Docker](https://www.docker.com/)|[info](https://github.com/syncloud/docs/blob/master/es/content/Docker.md)|
+|x64 Syncloud OS [Legacy BIOS]|[Download](https://github.com/syncloud/platform/releases/download/21.10/syncloud-amd64-21.10.img.xz), [info](https://github.com/syncloud/docs/blob/master/es/content/PC.md)|
+|x64 Syncloud OS [UEFI] recommended for NUC or any other Intel/AMD system|[Download](https://github.com/syncloud/platform/releases/download/21.10/syncloud-amd64-uefi-21.10.img.xz), [info](https://github.com/syncloud/docs/blob/master/es/content/PC.md)|
 
 ### Escribir imagen
 
