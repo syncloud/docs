@@ -1,4 +1,4 @@
-[About](https://github.com/syncloud/docs)
+[Sobre](https://github.com/syncloud/docs)
 
 [en](https://github.com/syncloud/platform/wiki) | 
 [de](https://github.com/syncloud/docs/blob/master/de/index.md) | 
@@ -7,11 +7,29 @@
 [fr](https://github.com/syncloud/docs/blob/master/fr/index.md) | 
 es | 
 
-# Home
+# Comienzo
 
-content
+Construir un dispositivo Syncloud es fácil. Necesitará: computadora ARM o x64, adaptador de corriente, cable ethernet, disco o tarjeta SD. También necesitará una computadora para crear un disco de arranque o una tarjeta SD. Simplemente siga las instrucciones a continuación.
 
-## Pages
+Puede encontrar más información en las páginas wiki a la derecha.
+
+### Descargar imagen
+
+Aquí está la lista de tableros compatibles y enlaces a archivos de imagen: 
+
+...
+
+### Escribir imagen
+
+1. Escriba la imagen en un disco y / o tarjeta SD con el escritor de imágenes Etcher
+
+Tenga cuidado y desconecte otras unidades externas antes de escribir para no borrar todo accidentalmente.
+
+2. Inserte el disco y / o la tarjeta SD en el dispositivo e inícielo.
+
+Su dispositivo Syncloud está listo. Siga estas instrucciones para activarlo.
+
+## Paginas
 
 * [Accounts](https://github.com/syncloud/docs/blob/master/es/content/Accounts.md)
 * [App-access](https://github.com/syncloud/docs/blob/master/es/content/App-access.md)
