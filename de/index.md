@@ -11,7 +11,7 @@ de |
 [fr](https://github.com/syncloud/docs/blob/master/fr/index.md) | 
 [es](https://github.com/syncloud/docs/blob/master/es/index.md) | 
 
-# Home
+# Start
 
 Das Erstellen von Syncloud-Geräten ist einfach. Sie benötigen: ARM- oder x64-Computer, Netzteil, Ethernet-Kabel, Diskette oder SD-Karte. Sie benötigen auch einen Computer, um eine Bootdiskette oder SD-Karte zu erstellen. Folgen Sie einfach der Anleitung unten.
 
