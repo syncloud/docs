@@ -2,7 +2,7 @@
 ! La traducción está en desarrollo. Por favor, confíe en la versión original en inglés. 
 ```
 
-[Paginas](https://github.com/syncloud/docs/blob/master/es/index.md)
+[Paginas](https://github.com/syncloud/docs/blob/master/es/index.md#Paginas)
 
 [en](https://github.com/syncloud/platform/wiki/Accounts) | 
 [de](https://github.com/syncloud/docs/blob/master/de/content/Accounts.md) | 
