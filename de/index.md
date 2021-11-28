@@ -22,7 +22,7 @@ Weitere Informationen finden Sie auf den Wiki-Seiten [ganz unten](https://github
 Hier ist die Liste der unterstützten Boards und Links zu Image Dateien: 
 
 |Board Name|Syncloud Image|
-|---|---|
+|:---|:---|
 |[Banana Pi M1](https://www.banana-pi.org/)|[Download](https://github.com/syncloud/platform/releases/download/)|
 |[Banana Pi M1+](https://www.banana-pi.org/)|[Download](https://github.com/syncloud/platform/releases/download/)|
 |[Banana Pi M2](https://www.banana-pi.org/)|[Download](https://github.com/syncloud/platform/releases/download/)|
