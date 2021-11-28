@@ -13,7 +13,7 @@ de |
 
 # Start
 
-Das Erstellen von Syncloud-Geräten ist einfach. Sie benötigen: ARM- oder x64-Computer, Netzteil, Ethernet-Kabel, Diskette oder SD-Karte. Sie benötigen auch einen Computer, um eine Bootdiskette oder SD-Karte zu erstellen. Folgen Sie einfach der Anleitung unten.
+Das Erstellen von Syncloud-Geräten ist einfach. Sie benötigen: ARM- oder x64-Computer, Netzteil, Ethernet-Kabel, Festplatte oder SD-Karte. Sie benötigen auch einen Computer, um eine Boot-Festplatte oder SD-Karte zu erstellen. Folgen Sie einfach der Anleitung unten.
 
 Weitere Informationen finden Sie auf den Wiki-Seiten [ganz unten](https://github.com/syncloud/docs/blob/master/de/index.md#seiten). 
 
@@ -56,7 +56,7 @@ Hier ist die Liste der unterstützten Boards und Links zu Image Dateien:
 
 Seien Sie vorsichtig und trennen Sie andere externe Laufwerke, bevor Sie schreiben, damit Sie nicht versehentlich alles löschen.
 
-2. Legen Sie die Diskette und/oder SD-Karte in das Gerät ein und starten Sie es.
+2. Legen Sie die Festplatte und/oder SD-Karte in das Gerät ein und starten Sie es.
 
 Ihr Syncloud-Gerät ist bereit. Folgen Sie [dieser Anweisung](https://syncloud.org/setup.html), um es zu aktivieren. 
 
