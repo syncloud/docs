@@ -1,7 +1,11 @@
-[navigation](https://github.com/syncloud/docs/blob/master/*/index.md)
+```diff
+! Die Übersetzung befindet sich in der Entwicklung. Bitte verlassen Sie sich auf die englische Originalversion.
+```
+
+[Seiten](https://github.com/syncloud/docs/blob/master/de/index.md#seiten)
 
 [en](https://github.com/syncloud/platform/wiki/FAQ) | 
-[de](https://github.com/syncloud/docs/blob/master/de/content/FAQ.md) | 
+de | 
 [cn](https://github.com/syncloud/docs/blob/master/cn/content/FAQ.md) | 
 [ru](https://github.com/syncloud/docs/blob/master/ru/content/FAQ.md) | 
 [fr](https://github.com/syncloud/docs/blob/master/fr/content/FAQ.md) | 
