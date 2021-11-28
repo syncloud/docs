@@ -13,4 +13,20 @@ de |
 
 # *insert page name here*
 
-*insert content here*
+## Manuelle Sicherung
+
+Es ist nicht sicher, ein Backup auf einem laufenden Gerät zu erstellen, daher wird empfohlen, es auszuschalten und die SD-Karte mit einem PC zu verbinden.
+
+### Etcher
+
+Etcher unterstützt noch keine Backup-Funktion, überprüfen Sie den Status: https://github.com/resin-io/etcher/issues/266
+
+### dd (Linux, Mac)
+
+```
+dd if=/dev/mmcblk01 of=/data/backup.img bs=1M
+```
+
+### Win32 Disk-Imager (Windows)
+
+https://sourceforge.net/projects/win32diskimager/
