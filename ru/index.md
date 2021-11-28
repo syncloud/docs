@@ -1,3 +1,7 @@
+```diff
+! Перевод находится в стадии разработки. Пожалуйста, полагайтесь на оригинальную версию на английском языке.
+```
+
 [О](https://github.com/syncloud/docs)
 
 [en](https://github.com/syncloud/platform/wiki) | 
