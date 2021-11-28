@@ -11,6 +11,6 @@ de |
 [fr](https://github.com/syncloud/docs/blob/master/fr/content/Bitwarden.md) | 
 [es](https://github.com/syncloud/docs/blob/master/es/content/Bitwarden.md) | 
 
-# *insert page name here*
+# Bitwarden
 
-*insert content here*
+Diese App verwaltet ihre Benutzer, daher müssen Sie die Schaltfläche Konto erstellen verwenden, bevor Sie sie verwenden können.
