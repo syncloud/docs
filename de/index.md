@@ -24,31 +24,31 @@ Hier ist die Liste der unterstützten Boards und Links zu Image Dateien:
 |Board Name|Syncloud Image|
 |---|---|
 |[Banana Pi M1]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
-|[#]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[Banana Pi M1+]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[Banana Pi M2]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[Banana Pi M3]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[Cubieboard]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[Cubieboard 2]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[Cubietruck]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[BeagleBone Black]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[Raspberry Pi 2 (B)]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[Raspberry Pi 3/4 (B/B+, 4G/8G)]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[Odroid C2]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[Odroid XU3]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[Odroid HC1]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[Odroid HC2]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[Odroid HC4]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[Odroid XU4]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[Odroid N2]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[Odroid U3]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[Tinker]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[Helios4]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[Helios64]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|[Rock64]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|x64 [Virtual Box]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|x64 Linux [Docker]()|[Download](https://github.com/syncloud/platform/releases/download/)|
+|x64 Syncloud OS [Legacy BIOS]|[Download](https://github.com/syncloud/platform/releases/download/)|
+|x64 Syncloud OS [UEFI] recommended for NUC or any other Intel/AMD system|[Download](https://github.com/syncloud/platform/releases/download/)|
 
 ### Image erstellen
 
