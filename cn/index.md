@@ -1,3 +1,7 @@
+```diff
+! 翻译正在开发中。 请依赖英文的原始版本。
+```
+
 [关于](https://github.com/syncloud/docs)
 
 [en](https://github.com/syncloud/platform/wiki) | 
