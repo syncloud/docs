@@ -43,13 +43,13 @@ Jede Syncloud-App kann als Beispiel für den Aufbau einer neuen verwendet werden
 
 ### App-Verzeichnisstruktur:
 
-* bin: Dienststartskripte
-* config: App-Konfigurationen
-* Hooks: App-Lifecycle-Ereignisse, derzeit haben wir eine Python-Bibliothek für die Interaktion (sie basiert auf http, sodass jede Sprache verwendet werden kann). Hooks umfassen Snap-Ereignisse (Installieren, Konfigurieren, Post-Refresh) und Syncloud-Plattform-Ereignisse (Zugriffsänderung, Speicheränderung)
-* snap: Snap-Paketdefinition (Name, Dienste, Befehle)
-* Integration: App-Integration und UI-Tests
-* build.sh: Skript erstellen
-* .drone.jsonnet: CI-Build-Pipeline
+* **bin:** Dienststartskripte
+* **config:** App-Konfigurationen
+* **Hooks:** App-Lifecycle-Ereignisse, derzeit haben wir eine Python-Bibliothek für die Interaktion (sie basiert auf http, sodass jede Sprache verwendet werden kann). Hooks umfassen Snap-Ereignisse (Installieren, Konfigurieren, Post-Refresh) und Syncloud-Plattform-Ereignisse (Zugriffsänderung, Speicheränderung)
+* **snap:** Snap-Paketdefinition (Name, Dienste, Befehle)
+* **Integration:** App-Integration und UI-Tests
+* **build.sh:** Skript erstellen
+* **.drone.jsonnet:** CI-Build-Pipeline
 
 ### Was in eine App aufgenommen werden sollte
 
