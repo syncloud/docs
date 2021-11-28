@@ -1,7 +1,11 @@
-[navigation](https://github.com/syncloud/docs/blob/master/*/index.md)
+```diff
+! Die Übersetzung befindet sich in der Entwicklung. Bitte verlassen Sie sich auf die englische Originalversion.
+```
+
+[Seiten](https://github.com/syncloud/docs/blob/master/de/index.md#seiten)
 
 [en](https://github.com/syncloud/platform/wiki/Docker) | 
-[de](https://github.com/syncloud/docs/blob/master/de/content/Docker.md) | 
+de | 
 [cn](https://github.com/syncloud/docs/blob/master/cn/content/Docker.md) | 
 [ru](https://github.com/syncloud/docs/blob/master/ru/content/Docker.md) | 
 [fr](https://github.com/syncloud/docs/blob/master/fr/content/Docker.md) | 
