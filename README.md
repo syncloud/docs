@@ -1,6 +1,8 @@
 # Syncloud Wiki in multiple languages
 
-*Translation is under development. Please, rely on the original version in english.*
+```
+! Translation is under development. Please, rely on the original version in english.
+```
 
 * [en](https://github.com/syncloud/platform/wiki)
 * [de](https://github.com/syncloud/docs/blob/master/de/index.md)
