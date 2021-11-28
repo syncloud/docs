@@ -1,4 +1,4 @@
-[About](https://github.com/syncloud/docs)
+[О](https://github.com/syncloud/docs)
 
 [en](https://github.com/syncloud/platform/wiki) | 
 [de](https://github.com/syncloud/docs/blob/master/de/index.md) | 
@@ -7,11 +7,29 @@ ru |
 [fr](https://github.com/syncloud/docs/blob/master/fr/index.md) | 
 [es](https://github.com/syncloud/docs/blob/master/es/index.md) | 
 
-# Home
+# Начинать
 
-content
+Создать устройство Syncloud легко. Вам понадобится: компьютер ARM или x64, адаптер питания, кабель Ethernet, диск или SD-карта. Вам также понадобится компьютер для создания загрузочного диска или SD-карты. Просто следуйте инструкциям ниже.
 
-## Pages
+Более подробную информацию можно найти на вики-страницах справа.
+
+### Скачать изображение
+
+Вот список поддерживаемых досок и ссылки на файлы изображений:
+
+...
+
+### Написать изображение
+
+1. Запись образа на диск и / или SD-карту с помощью средства записи изображений Etcher
+
+Будьте осторожны и отсоедините другие внешние диски перед записью, чтобы случайно не стереть с них все.
+
+2. Вставьте диск и / или SD-карту в устройство и загрузите его.
+
+Ваше устройство Syncloud готово. Следуйте этой инструкции, чтобы активировать его.
+
+## Страницы
 
 * [Accounts](https://github.com/syncloud/docs/blob/master/ru/content/Accounts.md)
 * [App-access](https://github.com/syncloud/docs/blob/master/ru/content/App-access.md)
