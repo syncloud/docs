@@ -11,7 +11,7 @@ de |
 [fr](https://github.com/syncloud/docs/blob/master/fr/content/Backup-SD-Card.md) | 
 [es](https://github.com/syncloud/docs/blob/master/es/content/Backup-SD-Card.md) | 
 
-# *insert page name here*
+# Backup SD-Karte
 
 ## Manuelle Sicherung
 
