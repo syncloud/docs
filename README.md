@@ -1,6 +1,6 @@
 # Syncloud Wiki in multiple languages
 
-```
+```diff
 ! Translation is under development. Please, rely on the original version in english.
 ```
 
