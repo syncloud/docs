@@ -21,7 +21,9 @@ Weitere Informationen finden Sie auf den Wiki-Seiten ganz unten.
 
 Hier ist die Liste der unterstützten Boards und Links zu Image Dateien: 
 
-[en](https://github.com/syncloud/platform/wiki)
+|Board Name|Syncloud Image|
+|---|---|
+|Banana Pi M1|Download|
 
 ### Image erstellen
 
