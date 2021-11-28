@@ -24,8 +24,8 @@ Wir führen eine modifizierte [Snapd]()-Instanz auf dem Gerät aus (https://gith
 ### Unterschiede bei der Erstellung von Syncloud Snap-Paketen
 
 * Keine Begrenzungs- / Apparmor-Definitionen erforderlich
-* Wir versuchen, vorgefertigte Binärdateien für komplexe Abhängigkeiten wie Sprachen oder Datenbanken wiederzuverwenden
-* Wir verwenden kein Snapcraft-Tool und nur eine einfache build.sh, um die benötigten Abhängigkeiten herunterzuladen/zu kompilieren.
+* Wir versuchen, [vorgefertigte Binärdateien]() für komplexe Abhängigkeiten wie Sprachen oder Datenbanken wiederzuverwenden
+* Wir verwenden kein [Snapcraft]()-Tool und nur eine einfache build.sh, um die benötigten Abhängigkeiten herunterzuladen/zu kompilieren.
 
 Apps sind übliche Snaps plus Syncloud-spezifische Konfigurations-Snap-Hooks.
 
@@ -61,7 +61,7 @@ Build script bringt alle abhängigen Dienste (Datenbank, Sprache ...) an die ric
 
 ### Build erstellen
 
-Wir verwenden den Drone CI-Build-Server für automatisierte Builds mit High-Level-Schritten (Pipeline), die in .drone.jsonnet definiert sind
+Wir verwenden den [Drone CI]()-Build-Server für automatisierte Builds mit High-Level-Schritten (Pipeline), die in .drone.jsonnet definiert sind. Es ist möglich, eine fertige Pipeline lokal auszuführen, indem Sie [drone cli]() verwenden.
 
 ```
 sudo /path/to/cli/drone exec --pipeline=[amd64|arm|arm64] --trusted
@@ -77,7 +77,7 @@ snap install --devmode /path/to/package.snap
 
 Im Laufe der Zeit müssen Sie Versionen der Upstream-App aktualisieren und Syncloud-Snaps neu verpacken. Gehen Sie dazu wie folgt vor:
 
-1. Ändern Sie die VERSION-Variable in build.sh
+1. Ändern Sie die VERSION-Variable in ```build.sh```
 2. build-Paket, das alle erforderlichen Tests ausführt
 3. Paket auf Ihrem Gerät installieren
 4. Erstellen Sie einen PR (Pull Request), damit wir ihn überprüfen und für die Store-Veröffentlichung akzeptieren können
