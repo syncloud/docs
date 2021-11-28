@@ -1,4 +1,4 @@
-[About](https://github.com/syncloud/docs)
+[关于](https://github.com/syncloud/docs)
 
 [en](https://github.com/syncloud/platform/wiki) | 
 [de](https://github.com/syncloud/docs/blob/master/de/index.md) | 
@@ -7,11 +7,11 @@ cn |
 [fr](https://github.com/syncloud/docs/blob/master/fr/index.md) | 
 [es](https://github.com/syncloud/docs/blob/master/es/index.md) | 
 
-# Home
+# 开始
 
 content
 
-## Pages
+## 页面
 
 * [Accounts](https://github.com/syncloud/docs/blob/master/cn/content/Accounts.md)
 * [App-access](https://github.com/syncloud/docs/blob/master/cn/content/App-access.md)
