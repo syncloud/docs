@@ -1,4 +1,4 @@
-[Seiten](https://github.com/syncloud/docs/blob/master/de/index.md)
+[Seiten](https://github.com/syncloud/docs/blob/master/de/index.md#seiten)
 
 [en](https://github.com/syncloud/platform/wiki/Accounts) | 
 de | 
