@@ -9,7 +9,7 @@ This can be used for the translation wiki (syncloud/docs).
 To create header of an index page use this code:
 
 ```
-[docs](https://github.com/syncloud/docs)
+[About](https://github.com/syncloud/docs)
 
 [en](https://github.com/syncloud/platform/wiki) | 
 [de](https://github.com/syncloud/docs/blob/master/de/index.md) | 
@@ -30,7 +30,7 @@ Remove URL/link styling from actual language.
 To create header of a content page use this code:
 
 ```
-[navigation](https://github.com/syncloud/docs/blob/master/*/index.md)
+[Pages](https://github.com/syncloud/docs/blob/master/*/index.md#Pages)
 
 [en](https://github.com/syncloud/platform/wiki/**) | 
 [de](https://github.com/syncloud/docs/blob/master/de/content/**.md) | 
@@ -44,4 +44,4 @@ To create header of a content page use this code:
 insert content here
 ```
 
-Replace * with language abbreviation and ** with page name.
+Replace * with language abbreviation and ** with page name. Replace #Pages in URL with translated words (correct URL).
