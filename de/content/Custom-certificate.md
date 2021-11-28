@@ -11,7 +11,7 @@ de |
 [fr](https://github.com/syncloud/docs/blob/master/fr/content/Custom-certificate.md) | 
 [es](https://github.com/syncloud/docs/blob/master/es/content/Custom-certificate.md) | 
 
-# Custom Zertifikat
+# Eigenes Zertifikat
 
 Wenn Sie ein eigenes Zertifikat haben, können Sie es installieren, indem Sie diese Dateien ersetzen:
 
