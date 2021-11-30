@@ -83,7 +83,7 @@ Ihr Syncloud-Gerät ist bereit. Folgen Sie [dieser Anweisung](https://syncloud.o
 * [FAQ](https://github.com/syncloud/docs/blob/master/de/content/FAQ.md)
 * [Installer](https://github.com/syncloud/docs/blob/master/de/content/Installer.md)
 * [Mail](https://github.com/syncloud/docs/blob/master/de/content/Mail.md)
-* [Managed Domain](https://github.com/syncloud/docs/blob/master/de/content/Managed-domain.md)
+* [Verwaltete Domain](https://github.com/syncloud/docs/blob/master/de/content/Managed-domain.md)
 * [Mehrere Festplatten](https://github.com/syncloud/docs/blob/master/de/content/Multiple-Disks.md)
 * [Nextcloud](https://github.com/syncloud/docs/blob/master/de/content/Nextcloud.md)
 * [PC](https://github.com/syncloud/docs/blob/master/de/content/PC.md)
