@@ -90,7 +90,7 @@ Ihr Syncloud-Gerät ist bereit. Folgen Sie [dieser Anweisung](https://syncloud.o
 * [Performance](https://github.com/syncloud/docs/blob/master/de/content/Performance.md)
 * [Plex](https://github.com/syncloud/docs/blob/master/de/content/Plex.md)
 * [Dateien Fernzugriff](https://github.com/syncloud/docs/blob/master/de/content/Remote-file-access.md)
-* [Probleme berichten](https://github.com/syncloud/docs/blob/master/de/content/Report-problems.md)
+* [Probleme melden](https://github.com/syncloud/docs/blob/master/de/content/Report-problems.md)
 * [Zu langsam](https://github.com/syncloud/docs/blob/master/de/content/Slow.md)
 * [SSH](https://github.com/syncloud/docs/blob/master/de/content/SSH.md)
 * [Syncloud-Mobile-App](https://github.com/syncloud/docs/blob/master/de/content/Syncloud-Mobile-App.md)
