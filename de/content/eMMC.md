@@ -11,6 +11,11 @@ de |
 [fr](https://github.com/syncloud/docs/blob/master/fr/content/eMMC.md) | 
 [es](https://github.com/syncloud/docs/blob/master/es/content/eMMC.md) | 
 
-# *insert page name here*
+# eMMC
 
-*insert content here*
+Um ein Image auf eine eMMC-Karte zu schreiben, gehen Sie wie folgt vor:
+
+1. Schrauben Sie das Gehäuse ab
+2. Trennen Sie die eMMC-Karte von der Unterseite der Platine.
+3. Verwenden Sie den eMMC-zu-SD-Adapter (sollte im Original-Syncloud-Paket enthalten sein)
+4. Befolgen Sie die regelmäßigen Anweisungen: Build
