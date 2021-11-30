@@ -23,7 +23,7 @@ de |
 
 3. Wofür wird eine Micro-SD-Karte verwendet?
 
-    Es wird zum Booten des Geräts (Bootpartition) verwendet, da die meisten Armgeräte nicht direkt von USB oder SATA booten können. Es wird auch als interne Festplatte verwendet (es sei denn, Ihr Gerät ist mit einer internen SSD-Festplatte ausgestattet), die Systemdateien enthält und ein Standarddateispeicher für die Apps ist. Dateispeicherlaufwerk kann in den Speichereinstellungen ausgewählt werden und es kann jeweils nur ein Laufwerk verwendet werden.
+    Es wird zum Booten des Geräts (Bootpartition) verwendet, da die meisten arm-Geräte nicht direkt von USB oder SATA booten können. Es wird auch als interne Festplatte verwendet (es sei denn, Ihr Gerät ist mit einer internen SSD-Festplatte ausgestattet), die Systemdateien enthält und ein Standarddateispeicher für die Apps ist. Dateispeicherlaufwerk kann in den Speichereinstellungen ausgewählt werden und es kann jeweils nur ein Laufwerk verwendet werden.
 
 4. Externe Festplatte (Dateispeicher).
 
