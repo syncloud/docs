@@ -23,7 +23,9 @@ Sie sollten in der Lage sein, E-Mails von Roundcube aus zu senden.
 
 In seltenen Fällen kann Ihr Internetanbieter den ausgehenden Port 25 blockieren. Verwenden Sie den folgenden Befehl, um zu überprüfen, ob Sie eine Zeitüberschreitung erhalten, die bedeutet, dass der ausgehende Port 25 blockiert ist.
 
+```
 nc -vz gmail-smtp-in.l.google.com 25
+```
 
 Höchstwahrscheinlich wird Ihre E-Mail im Spam landen, also überprüfen Sie den Spam-Ordner und markieren Sie sie als Nicht-Spam. Gmail zum Beispiel ist sehr aggressiv gegenüber Spam, Yahoo nicht.
 
