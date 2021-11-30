@@ -1,8 +1,12 @@
-[navigation](https://github.com/syncloud/docs/blob/master/*/index.md)
+```diff
+! 翻译正在开发中。 请依赖英文的原始版本。
+```
+
+[页面](https://github.com/syncloud/docs/blob/master/cn/index.md#页面)
 
 [en](https://github.com/syncloud/platform/wiki/Installer) | 
 [de](https://github.com/syncloud/docs/blob/master/de/content/Installer.md) | 
-[cn](https://github.com/syncloud/docs/blob/master/cn/content/Installer.md) | 
+cn | 
 [ru](https://github.com/syncloud/docs/blob/master/ru/content/Installer.md) | 
 [fr](https://github.com/syncloud/docs/blob/master/fr/content/Installer.md) | 
 [es](https://github.com/syncloud/docs/blob/master/es/content/Installer.md) | 
