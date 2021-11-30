@@ -1,8 +1,12 @@
-[navigation](https://github.com/syncloud/docs/blob/master/*/index.md)
+```diff
+! 翻译正在开发中。 请依赖英文的原始版本。
+```
+
+[页面](https://github.com/syncloud/docs/blob/master/cn/index.md#页面)
 
 [en](https://github.com/syncloud/platform/wiki/Remote-file-access) | 
 [de](https://github.com/syncloud/docs/blob/master/de/content/Remote-file-access.md) | 
-[cn](https://github.com/syncloud/docs/blob/master/cn/content/Remote-file-access.md) | 
+cn | 
 [ru](https://github.com/syncloud/docs/blob/master/ru/content/Remote-file-access.md) | 
 [fr](https://github.com/syncloud/docs/blob/master/fr/content/Remote-file-access.md) | 
 [es](https://github.com/syncloud/docs/blob/master/es/content/Remote-file-access.md) | 
