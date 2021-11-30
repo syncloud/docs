@@ -11,6 +11,12 @@ de |
 [fr](https://github.com/syncloud/docs/blob/master/fr/content/Installer.md) | 
 [es](https://github.com/syncloud/docs/blob/master/es/content/Installer.md) | 
 
-# *insert page name here*
+# Installer
 
-*insert content here*
+Syncloud verwendet eine modifizierte Version von snapd, um einen einfachen HTTP-basierten Backend-App-Store verwenden zu können.
+
+### Manuelles Upgrade
+
+```
+curl https://raw.githubusercontent.com/syncloud/platform/master/bin/upgrade-snapd.sh | bash -s stabil
+```
