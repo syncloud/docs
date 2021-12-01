@@ -25,4 +25,5 @@ Mobile Märkte:
 2. iPhone-App
 
 F: Muss ich die Syncloud App verwenden, um auf Syncloud-Apps zuzugreifen?
+
 A: Nein, alle Apps bieten ihre eigenen Web- oder Mobile-Apps.
