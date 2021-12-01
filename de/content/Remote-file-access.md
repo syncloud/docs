@@ -13,4 +13,16 @@ de |
 
 # Dateien Fernzugriff
 
-*insert content here*
+Auf Dateien kann über das SFTP-Protokoll aus der Ferne zugegriffen werden.
+
+* URL: sftp://[Gerät].syncloud.it (oder sftp://[IP])
+* Anmelden: Geräteanmeldung
+* Passwort: Gerätepasswort
+
+Es funktioniert nur im lokalen Netzwerk, es sei denn, Sie öffnen Port 22 an Ihrem Router.
+
+Es gibt viele Apps, die SFTP unterstützen, zum Beispiel:
+
+* FileZilla (Windows): https://filezilla-project.org/download.php
+* WinSCP (Windows)
+* Krusader (Linux)
