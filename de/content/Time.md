@@ -11,6 +11,14 @@ de |
 [fr](https://github.com/syncloud/docs/blob/master/fr/content/Time.md) | 
 [es](https://github.com/syncloud/docs/blob/master/es/content/Time.md) | 
 
-# *insert page name here*
+# Zeit
 
-*insert content here*
+Manchmal können Uhrzeit und Datum des Geräts nicht mehr synchron sein.
+
+Bitte führen Sie diese Befehle mit SSH (https://github.com/syncloud/platform/wiki/SSH) aus, um zu sehen, ob das Problem behoben ist:
+
+```
+service ntp stop
+ntpd -gq
+Dienst ntp starten
+```
