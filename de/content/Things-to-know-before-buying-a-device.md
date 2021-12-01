@@ -11,6 +11,10 @@ de |
 [fr](https://github.com/syncloud/docs/blob/master/fr/content/Things-to-know-before-buying-a-device.md) | 
 [es](https://github.com/syncloud/docs/blob/master/es/content/Things-to-know-before-buying-a-device.md) | 
 
-# *insert page name here*
+# Wissenswertes vor dem Kauf eines Gerätes
 
-*insert content here*
+1. Haben Sie ein öffentliches IPv4 von Ihrem Internetprovider?
+2. Können Sie mindestens zwei Portzuordnungen auf Ihrem Router erstellen, wenn UPnP nicht funktioniert?
+3. Unterstützt Ihr Router NAT-Loopback, um vom lokalen Netzwerk auf das Gerät zuzugreifen?
+
+Positive Antworten bedeuten höchstwahrscheinlich, dass Sie bereit sind, ein Gerät zu kaufen und keine weiteren technischen Kenntnisse benötigen.
