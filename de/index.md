@@ -93,7 +93,7 @@ Ihr Syncloud-Gerät ist bereit. Folgen Sie [dieser Anweisung](https://syncloud.o
 * [Probleme melden](https://github.com/syncloud/docs/blob/master/de/content/Report-problems.md)
 * [Zu langsam](https://github.com/syncloud/docs/blob/master/de/content/Slow.md)
 * [SSH](https://github.com/syncloud/docs/blob/master/de/content/SSH.md)
-* [Syncloud-Mobile-App](https://github.com/syncloud/docs/blob/master/de/content/Syncloud-Mobile-App.md)
+* [Syncloud Mobile App](https://github.com/syncloud/docs/blob/master/de/content/Syncloud-Mobile-App.md)
 * [Wissenswertes vor dem Kauf eines Gerätes](https://github.com/syncloud/docs/blob/master/de/content/Things-to-know-before-buying-a-device.md)
 * [Zeit](https://github.com/syncloud/docs/blob/master/de/content/Time.md)
 * [Zugriff auf Gerät aus lokalem Netzwerk nicht möglich](https://github.com/syncloud/docs/blob/master/de/content/Unable-to-access-device-from-local-network.md)
