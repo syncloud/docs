@@ -11,6 +11,6 @@ de |
 [fr](https://github.com/syncloud/docs/blob/master/fr/content/Remote-file-access.md) | 
 [es](https://github.com/syncloud/docs/blob/master/es/content/Remote-file-access.md) | 
 
-# *insert page name here*
+# Dateien Fernzugriff
 
 *insert content here*
