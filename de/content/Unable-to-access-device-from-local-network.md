@@ -41,7 +41,7 @@ Fritzbox erlaubt zum Beispiel das Hinzufügen einer Ausnahme: https://en.avm.de/
 
 #### DNS-Problem des Smartphones
 
-Installieren Sie die DNS-App DNSDig auf Android oder Deep Dig auf dem iPhone
+Installieren Sie die DNS-App [DNSDig auf Android]() oder [Deep Dig auf dem iPhone]()
 
 Geben Sie Ihren Domainnamen ein und erhalten Sie IP. Dadurch erfahren Sie, ob Ihr lokaler DNS-Anbieter gut ist oder ob Sie beispielsweise auf 8.8.8.8 (dns.google) wechseln müssen.
 
