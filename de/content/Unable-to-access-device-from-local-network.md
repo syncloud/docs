@@ -11,6 +11,6 @@ de |
 [fr](https://github.com/syncloud/docs/blob/master/fr/content/Unable-to-access-device-from-local-network.md) | 
 [es](https://github.com/syncloud/docs/blob/master/es/content/Unable-to-access-device-from-local-network.md) | 
 
-# *insert page name here*
+# Zugriff auf Gerät aus lokalem Netzwerk nicht möglich
 
 *insert content here*
