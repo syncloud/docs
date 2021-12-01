@@ -11,6 +11,6 @@ de |
 [fr](https://github.com/syncloud/docs/blob/master/fr/content/Report-problems.md) | 
 [es](https://github.com/syncloud/docs/blob/master/es/content/Report-problems.md) | 
 
-# *insert page name here*
+# Probleme melden
 
 *insert content here*
