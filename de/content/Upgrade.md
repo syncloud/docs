@@ -11,6 +11,10 @@ de |
 [fr](https://github.com/syncloud/docs/blob/master/fr/content/Upgrade.md) | 
 [es](https://github.com/syncloud/docs/blob/master/es/content/Upgrade.md) | 
 
-# *insert page name here*
+# Upgrade
 
-*insert content here*
+1. Gehen Sie zur Seite Einstellungen Ihres Geräts.
+2. Aktualisieren Sie zuerst das System.
+3. Aktualisieren Sie die Seite, wenn Sie fertig sind.
+4. Upgrade-Installationsprogramm (falls verfügbar).
+5. Gehen Sie zum App Center und aktualisieren Sie Ihre Apps.
