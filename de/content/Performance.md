@@ -11,6 +11,6 @@ de |
 [fr](https://github.com/syncloud/docs/blob/master/fr/content/Performance.md) | 
 [es](https://github.com/syncloud/docs/blob/master/es/content/Performance.md) | 
 
-# *insert page name here*
+# Performance
 
 *insert content here*
