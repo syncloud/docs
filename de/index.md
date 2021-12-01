@@ -99,5 +99,5 @@ Ihr Syncloud-Gerät ist bereit. Folgen Sie [dieser Anweisung](https://syncloud.o
 * [Zugriff auf Gerät aus lokalem Netzwerk nicht möglich](https://github.com/syncloud/docs/blob/master/de/content/Unable-to-access-device-from-local-network.md)
 * [Upgrade](https://github.com/syncloud/docs/blob/master/de/content/Upgrade.md)
 * [Users](https://github.com/syncloud/docs/blob/master/de/content/Users.md)
-* [Virtual-Box](https://github.com/syncloud/docs/blob/master/de/content/Virtual-Box.md)
+* [Virtual Box](https://github.com/syncloud/docs/blob/master/de/content/Virtual-Box.md)
 * [VPN](https://github.com/syncloud/docs/blob/master/de/content/VPN.md)
