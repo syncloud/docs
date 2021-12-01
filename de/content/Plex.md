@@ -11,6 +11,14 @@ de |
 [fr](https://github.com/syncloud/docs/blob/master/fr/content/Plex.md) | 
 [es](https://github.com/syncloud/docs/blob/master/es/content/Plex.md) | 
 
-# *insert page name here*
+# Plex
 
-*insert content here*
+Bei Plex müssen Sie den Server mit dieser URL für Ihr Konto beanspruchen:
+
+```
+http://[device_ip]:32400/web
+```
+
+Dabei ist device_ip die IP-Adresse des Syncloud-Geräts in Ihrem lokalen Netzwerk.
+
+Danach können Sie auf plex wie jede andere Syncloud-App zugreifen https://plex.[domain]
