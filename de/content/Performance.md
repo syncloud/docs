@@ -13,4 +13,4 @@ de |
 
 # Performance
 
-*insert content here*
+![](https://raw.githubusercontent.com/syncloud/platform/master/wiki/images/performance.png)
