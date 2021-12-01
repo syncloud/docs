@@ -15,12 +15,12 @@ de |
 
 Es gibt zwei Anwendungsfälle für die App:
 
-1. Es hilft Ihnen, Ihr Gerät im lokalen Netzwerk zu erkennen und öffnet seine Web-Benutzeroberfläche (Aktivierung).
-2. Zeigt Ihre vorhandenen Geräte an (wie hier Syncloud.it-Konto)
+1. Es hilft Ihnen, Ihr Gerät im lokalen Netzwerk zu erkennen und öffnet seine Web-Benutzeroberfläche ([Aktivierung]()).
+2. Zeigt Ihre vorhandenen Geräte an (wie hier [Syncloud.it-Konto]())
 
 Mobile Märkte:
 
-1. Android-App ist verfügbar.
+1. [Android]()-App ist verfügbar.
 
 2. iPhone-App
 
