@@ -13,4 +13,12 @@ de |
 
 # Performance
 
+## CPU
+
 ![](https://raw.githubusercontent.com/syncloud/platform/master/wiki/images/performance.png)
+
+## Befehl:
+
+```
+openssl speed -engine padlock -evp aes-256-cbc -multi [cores]
+```
