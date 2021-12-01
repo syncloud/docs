@@ -35,7 +35,7 @@ Wahrscheinlich lässt Ihr Router kein DNS zu, das auf eine lokale IP verweist.
 
 Fritzbox erlaubt zum Beispiel das Hinzufügen einer Ausnahme: https://en.avm.de/service/fritzbox/fritzbox-7390/knowledge-base/publication/show/663_No-DNS-resolution-of-private-IP-addresses/
 
-#### DNS-Problem des Telefons
+#### DNS-Problem des Smartphones
 
 Installieren Sie die DNS-App DNSDig auf Android oder Deep Dig auf dem iPhone
 
