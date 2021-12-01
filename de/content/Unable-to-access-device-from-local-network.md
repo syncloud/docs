@@ -19,7 +19,9 @@ Die übliche Ursache dafür ist eine falsche oder langsame Aktualisierung des DN
 
 Überprüfen Sie die DNS-Informationen von dem Computer, auf dem Sie versuchen, mit dem nslookup-Befehlszeilentool auf Ihr Gerät zuzugreifen:
 
+```
 nslookup [Gerätename].syncloud.it
+```
 
 #### Wenn Sie eine falsche IP sehen
 
@@ -27,7 +29,9 @@ Möglicherweise möchten Sie Ihren DNS-Server auf 8.8.8.8 (Google DNS) umstellen
 
 Testen Sie es zuerst:
 
+```
 nslookup [Gerätename].syncloud.it 8.8.8.8
+```
 
 #### Wenn Sie eine Timeout-Meldung sehen
 
