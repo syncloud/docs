@@ -11,6 +11,6 @@ de |
 [fr](https://github.com/syncloud/docs/blob/master/fr/content/Syncloud-Mobile-App.md) | 
 [es](https://github.com/syncloud/docs/blob/master/es/content/Syncloud-Mobile-App.md) | 
 
-# *insert page name here*
+# Syncloud Mobile App
 
 *insert content here*
