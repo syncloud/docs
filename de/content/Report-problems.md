@@ -36,7 +36,7 @@ tail -200 /var/snap/platform/common/log/platform.log
 
 Um die obigen Befehle auszuführen, müssen Sie SSH verwenden, mit dem Sie Befehle auf einem Gerät ausführen und uns die Ausgabe senden können.
 
-Verwenden Sie unter Windows Pytty
+Verwenden Sie unter Windows [Pytty]()
 
 Installieren und verbinden Sie sich mit Ihrem Gerät über seine IP-Adresse. Verwenden Sie root als Benutzernamen und Ihr Gerätepasswort, das während der Aktivierung festgelegt wurde. Dann sollten Sie ein Terminalfenster sehen, in dem Sie SSH-Befehle eingeben (oder einfügen) und mit der Eingabetaste ausführen können.
 
