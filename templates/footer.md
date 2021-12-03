@@ -6,7 +6,7 @@ This can be used in the original github wiki (english).
 
 ## For index page
 
-To create header of an index page use this code:
+To create footer of an index page use this code:
 
 ```
 ---
@@ -20,7 +20,7 @@ en |
 
 ## For content page
 
-To create header of a content page use this code:
+To create footer of a content page use this code:
 
 ```
 ---
